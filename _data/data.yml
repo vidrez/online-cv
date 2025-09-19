@@ -137,7 +137,7 @@ certifications:
     start: 2025
     end:
     organization: KodeKloud
-    credentialid: aadab1ba-e036-40f7-9f50-e5d0c034761f
+    credentialid: 
     credentialurl: learn.kodekloud.com/certificate/aadab1ba-e036-40f7-9f50-e5d0c034761f
     credentialname: Terraform for Beginners
   - name: AWS Cloud Solutions Architect

@@ -4,283 +4,228 @@
 
 sidebar:
   position: right # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: True # set to False if you want education in main section instead of in sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
+  name: Sergiu Vidreanu
+  tagline: Full Stack Developer Cybersecurity Specialist
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  email: vidreanu97@gmail.com
+  phone: +39 3896320087
+  timezone: 
   citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
+  website: 
+  linkedin: sergiuvdr
+  xing: 
+  github: vidrez
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  bluesky: 
+  twitter: 
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
   mastodon: # Please include your full Mastodon link here.
   hackerrank: # Please provide your HackerRank username.
   leetcode: # Please provide your LeetCode username.
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  pdf: https://raw.githubusercontent.com/vidrez/vidrez/main/Sergiu_Vidreanu_CV.pdf # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
     title: Languages
     info:
-    - idiom: English
+    - idiom: Italian
       level: Native
 
-    - idiom: French
+    - idiom: Romanian
+      level: Native
+
+    - idiom: English
       level: Professional
 
-    - idiom: Spanish
-      level: Professional
+    - idiom: German
+      level: Beginner
 
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Gaming 🎮
       link:
 
 
-    - item: Snowboarding
+    - item: Cinema 🎬
       link:
 
 
-    - item: Cooking
+    - item: Mountain ⛰️
       link:
 
 
 career-profile:
-  title: Career Profile
-  summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+  title: Who am I?
+  summary: Hi! I'm Sergiu, welcome to my profile ☺️
+  details: |
+    I am a Full-stack developer that in the years has expanded his horizons into Cybersecurity, especially in web application security.
+    When I'm not coding or learning something new, I enjoy exploring mountain trails, discovering the latest game releases, and catching new films at the cinema.
+    I take pride in my work and always strive to deliver my best, pushing beyond expectations to achieve my goals. I am a quick learner, eager to embrace new challenges and continuously grow.
+    If you believe we could collaborate or if you want to discuss exciting opportunities, feel free to reach out. Cheers!
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: MSc in Cybersecurity
+    university: University of Padova
+    time: 2020 - Present (est. 2026)
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+      The course offers a mostly theoretical yet diverse curriculum in Cybersecurity, with topics such as Ethical Hacking, Biometrics and Risk Management. 
+      Initially I had chosen this path as a way to broaden my knowledge in web application security, and then I quickly realized how vast the Cybersecurity panorama really is. 
+      Over time I have merged what I learned as a developer and an IT security specialist; I believe the two are complementary and can benefit each other. 
+      Studies continue to this day alongside my professional career. 
+  - degree: BSc in Computer Science
+    university: University of Udine
+    time: 2016 - 2019
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      The programme combined computer science and communications courses, leaving the choice to the student on which specialization to focus and earn the degree. 
+      This option was chosen over a more traditional path since I believe that, while having a strong technical knowledge is vital, the tools that 
+      I develop serve people, therefore communication is as important.
 
 experiences:
-  title: Experiences
+  title: Work Experience
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: IT Security Trainee & Digital Security Specialist
+    time: Jul 2023 - Jun 2025
+    company: European Central Bank, Frankfurt am Main
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+      Starting first as a Trainee and later as a Specialist in the SOC team, my main responsibility involved maintaining
+      and further developing an internal tool designed to manage the complete lifecycle of security detections, from
+      ideation, through deployment to the SIEM, and ultimately retirement.
+        - The technology stack primarily consisted of Django, Gitlab CI/CD tools, Vue.js, Bootstrap and Docker.
+        - DevSecOps practices were implemented by having unit testing, static code analysis, linting, package auditing and SBOM analysis to name a few.
+        - I was responsible for migrating the tool to a cloud-native environment on AWS using Terraform (IaC).
+        - Had the opportunity to coordinate an international working group that involved multiple partner institutions in the context of a joint project effort.
+        - Additionally I supported my team in various other tasks with different degrees of involvement, such as dashboard development in Splunk, automating incident responses through the SOAR platform, detection engineering and investigative work.
+  - role: Full Stack Web Developer
+    time: Jan 2020 - May 2023
+    company: Prysma S.r.l., Pordenone
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+      The development team consisted of just two people, so in addition to core development tasks, operational responsibilities related to DevOps were also undertaken.
+        - I was involved in all phases of the software development lifecycle across multiple products, including client support and training.
+        - The main technology stack was composed by Laravel, Vue.js, MySQL, Bootstrap and/or Tailwind CSS depending on the project.
+        - Operational duties involved managing our Linux based hosting environments via either Plesk or command line in order to patch the systems, configure the firewall, manage the IDS/IPS and WAF rules, set the backup plans, configure and monitor the logs of system and apps.
+        - I started working with AWS, particularly in designing and implementing a translation system using AWS Lambda, Translate, and API Gateway, along with planning the migration of existing platforms to a cloud-native environment.
+  - role: Intern Web Developer
+    time: Feb 2019 - Apr 2019
+    company: W3design, Pordenone
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      In the brief time I worked here as an Intern I’ve learned the basics of web development by creating a small application in Laravel, which later on was used as the subject of my bachelor degree thesis.
 
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
+  - name: OffSec Web Expert
+    start: 2025
+    end: 
+    organization: Offsec
+    credentialid: 18576fa9-cfb8-48d4-86a5-3fd7ea300d87
+    credentialurl: credentials.offsec.com/18576fa9-cfb8-48d4-86a5-3fd7ea300d87
+    credentialname: OSWE
     details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
+      Certified OSWEs have a clear and practical understanding of white box web application assessment and security. They’ve proven their ability to review advanced source code in web apps, identify vulnerabilities, and exploit them.
+  - name: Terraform for Beginners
+    start: 2025
     end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
-    details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+    organization: KodeKloud
+    credentialid: aadab1ba-e036-40f7-9f50-e5d0c034761f
+    credentialurl: learn.kodekloud.com/certificate/aadab1ba-e036-40f7-9f50-e5d0c034761f
+    credentialname: Terraform for Beginners
+  - name: AWS Cloud Solutions Architect
+    start: 2024
+    end:
+    organization: AWS
+    credentialid: ZWT9VMYP0NGU
+    credentialurl: coursera.org/verify/professional-cert/ZWT9VMYP0NGU
+    credentialname: Cloud Solutions Architect
+  - name: DevOps on AWS
+    start: 2024
+    end:
+    organization: AWS
+    credentialid: B56JXRZ5GMUW
+    credentialurl: coursera.org/verify/specialization/B56JXRZ5GMUW
+    credentialname: DevOps
+  - name: Foundation Level Threat Intelligence Analyst
+    start: 2024
+    end:
+    organization: arcX
+    credentialid: 
+    credentialurl: arcx.io/verify-certificate?id=c13c8525524c9302cc6d5124920799a72b392292&k=a2f2382558254a2eb7952c5a536f7aa7
+    credentialname: Foundation Level Threat Intelligence Analyst
+  - name: EF Standard English Test
+    start: 2022
+    end:
+    organization: EF SET
+    credentialid: 8BS9v7
+    credentialurl: efset.org/cert/8BS9v7
+    credentialname: EF Standard English Test
 
 projects:
   title: Projects
-  intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  - title: Shortly
+    link: "https://github.com/vidrez/shortly"
+    tagline: "Shortly is a security-first URL shortener that ensures that users are protected by scanning URLs with VirusTotal before redirecting. It is a fairly simple project with the intention of learning Nuxt."
 
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+  - title: Log4j Report
+    link: "https://github.com/vidrez/Ethical-Hacking-Report-Log4j"
+    tagline: "This project was realized for a university exam and explores the Log4j vulnerability from 2021, from the base form to it’s evolutions."
 
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
-
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
-
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
-
-      He is a great employee!
+  - title: Spacetravel
+    link: "https://github.com/vidrez/spacetravel"
+    tagline: "Spacetravel is a 3D solar system \"simulation\" built using Three.js. Started as a university side task quite some years ago when first approaching Javascript, a project without many pretensions and with questionable code, but it works and it's cool."
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
+  - name: Javascript & Vue.js
+    level: 98%
+
   - name: Python & Django
-    level: 98%
+    level: 95%
 
-  - name: Javascript & jQuery
-    level: 98%
-
-  - name: Angular
-    level: 98%
+  - name: PHP & Laravel
+    level: 95%
 
   - name: HTML5 & CSS
     level: 95%
+  
+  - name: Git
+    level: 93%
 
-  - name: Ruby on Rails
+  - name: Gitlab CI/CD
+    level: 93%
+  
+  - name: Docker
+    level: 90%
+
+  - name: Bootstrap & Tailwind CSS
+    level: 90%
+
+  - name: SQL
     level: 85%
 
-  - name: Sketch & Photoshop
-    level: 60%
+  - name: AWS
+    level: 80%
+
+  - name: Linux
+    level: 80%
+
+  - name: Terraform
+    level: 75%
+
+  - name: Splunk
+    level: 70%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
